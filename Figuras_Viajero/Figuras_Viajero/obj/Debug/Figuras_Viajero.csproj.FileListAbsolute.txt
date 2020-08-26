@@ -1,0 +1,21 @@
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\bin\Debug\Figuras_Viajero.exe.config
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\bin\Debug\Figuras_Viajero.exe
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\bin\Debug\Figuras_Viajero.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.Form1.resources
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.Properties.Resources.resources
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.exe
+C:\Users\Eric\Desktop\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.pdb
+D:\Biblioteca\Mis Documentos\Eric\IX Semestre\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\bin\Debug\Figuras_Viajero.exe.config
+D:\Biblioteca\Mis Documentos\Eric\IX Semestre\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.exe
+D:\Biblioteca\Mis Documentos\Eric\IX Semestre\Proyectos visual basic\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.pdb
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\bin\Debug\Figuras_Viajero.exe.config
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.exe
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.pdb
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\bin\Debug\Figuras_Viajero.exe
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\bin\Debug\Figuras_Viajero.pdb
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.csprojResolveAssemblyReference.cache
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.Form1.resources
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.Properties.Resources.resources
+D:\FAMILIA MONTES\EQUIPO\Documentos\Eric Montes\Programas C#\Figuras_Viajero\Figuras_Viajero\Figuras_Viajero\obj\Debug\Figuras_Viajero.csproj.GenerateResource.Cache
